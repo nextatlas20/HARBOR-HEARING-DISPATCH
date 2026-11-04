@@ -1,0 +1,4 @@
+HARBOR CIVIC LANGUAGE DESK — SEALED DISPATCH RULES
+Cutoff: 2142-07-18T23:59:59Z inclusive.
+Use half-open hearing and availability intervals. Capacity is measured in whole minutes.
+Urgency 1 is processed before 2, and 2 before 3. See the task order and validation rules for the complete certified procedure.
